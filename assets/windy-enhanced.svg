@@ -11,11 +11,12 @@
     <g font-size="13" font-weight="800"><g transform="translate(54 188)"><rect width="116" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.08"/><text x="58" y="23" text-anchor="middle" fill="#FFFFFF">JAVASCRIPT</text></g><g transform="translate(180 188)"><rect width="126" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.08"/><text x="63" y="23" text-anchor="middle" fill="#FFFFFF">TAMPERMONKEY</text></g><g transform="translate(316 188)"><rect width="104" height="36" rx="18" fill="#ED1C24" fill-opacity="0.2" stroke="#ED1C24"/><text x="52" y="23" text-anchor="middle" fill="#FFFFFF">GITHUB</text></g></g>
     <text x="54" y="252" fill="#ED1C24" font-size="15" font-weight="800">ABRIR REPOSITÓRIO  →</text>
   </g>
-  <g transform="translate(832 34)" fill="none" stroke-linecap="round">
-    <circle cx="126" cy="101" r="91" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
-    <path d="M8 80C75 20 151 20 222 77" stroke="#ED1C24" stroke-width="13"/>
-    <path d="M30 128C86 78 150 78 203 118" stroke="#FFFFFF" stroke-opacity="0.72" stroke-width="11"/>
-    <path d="M60 168C103 132 148 132 180 154" stroke="#ED1C24" stroke-opacity="0.7" stroke-width="9"/>
-    <path d="M265 31C342 64 354 138 296 198" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+  <g transform="translate(820 28)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="205" cy="66" r="39" fill="#ED1C24" fill-opacity="0.22" stroke="#ED1C24" stroke-width="7"/>
+    <g stroke="#ED1C24" stroke-width="5"><path d="M205 8V-7"/><path d="M205 139V124"/><path d="M147 66H132"/><path d="M278 66H263"/><path d="M164 25L153 14"/><path d="M246 107L257 118"/><path d="M246 25L257 14"/></g>
+    <path d="M77 167C65 119 101 85 144 91 165 57 221 62 234 103 273 105 292 135 283 167Z" fill="#111114" stroke="#FFFFFF" stroke-width="8"/>
+    <path d="M61 191H223" stroke="#ED1C24" stroke-width="10"/>
+    <path d="M95 218H270" stroke="#FFFFFF" stroke-opacity="0.72" stroke-width="9"/>
+    <path d="M24 218H60" stroke="#FFFFFF" stroke-opacity="0.72" stroke-width="9"/>
   </g>
 </svg>

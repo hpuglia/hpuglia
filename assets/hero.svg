@@ -37,19 +37,25 @@
     </g>
   </g>
 
-  <g transform="translate(835 46)" filter="url(#shadow)">
-    <path d="M150 16L276 60 270 192Q267 277 150 331Q33 277 30 192L24 60Z" fill="#151518" stroke="#FFFFFF" stroke-width="9" stroke-linejoin="round"/>
-    <path d="M150 35L253 71" fill="none" stroke="#ED1C24" stroke-width="9" stroke-linecap="round"/>
-    <circle cx="150" cy="151" r="86" fill="#0A0A0B" stroke="#454549" stroke-width="4"/>
-    <g fill="#FFFFFF" stroke="#0A0A0B" stroke-width="3" stroke-linejoin="round">
-      <path d="M150 76L215 113 183 125 158 101Z"/>
-      <path d="M215 113V188L188 169 183 125Z"/>
-      <path d="M215 188L150 226 146 190 188 169Z"/>
-      <path d="M150 226L85 188 116 169 146 190Z"/>
-      <path d="M85 188V113L117 126 116 169Z"/>
-      <path d="M85 113L150 76 158 101 117 126Z"/>
+  <g transform="translate(802 55)" filter="url(#shadow)">
+    <g fill="none" stroke="#ED1C24" stroke-width="3" stroke-opacity="0.58">
+      <path d="M20 38H74L95 59"/><path d="M337 40H308L286 61"/><path d="M14 280H62L91 251"/>
+      <circle cx="14" cy="38" r="6" fill="#ED1C24"/><circle cx="343" cy="40" r="6" fill="#ED1C24"/><circle cx="14" cy="280" r="6" fill="#ED1C24"/>
     </g>
-    <circle cx="150" cy="151" r="27" fill="#0A0A0B" stroke="#ED1C24" stroke-width="7"/>
-    <text x="150" y="375" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="4">PUGLIA APPS</text>
+    <rect x="18" y="61" width="282" height="190" rx="22" fill="#151518" stroke="#FFFFFF" stroke-width="6"/>
+    <rect x="37" y="82" width="244" height="133" rx="10" fill="#09090A" stroke="#454549" stroke-width="2"/>
+    <circle cx="54" cy="98" r="4" fill="#ED1C24"/><circle cx="68" cy="98" r="4" fill="#66666C"/><circle cx="82" cy="98" r="4" fill="#66666C"/>
+    <path d="M96 132L70 151 96 170M222 132L248 151 222 170" fill="none" stroke="#ED1C24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M177 123L142 179" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+    <rect x="119" y="233" width="82" height="18" rx="9" fill="#FFFFFF"/>
+    <path d="M101 273H217" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+    <rect x="266" y="28" width="100" height="218" rx="24" fill="#111113" stroke="#FFFFFF" stroke-width="6"/>
+    <rect x="280" y="53" width="72" height="153" rx="9" fill="#080809" stroke="#454549" stroke-width="2"/>
+    <rect x="300" y="40" width="32" height="5" rx="2.5" fill="#77777D"/>
+    <path d="M299 99L287 111 299 123M333 99L345 111 333 123" fill="none" stroke="#ED1C24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M325 93L307 129" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="316" cy="225" r="8" fill="#ED1C24"/>
+    <g fill="#ED1C24"><circle cx="52" cy="305" r="5"/><circle cx="74" cy="305" r="5"/><circle cx="96" cy="305" r="5"/></g>
+    <text x="118" y="312" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="2">BUILD · TEST · SHIP</text>
   </g>
 </svg>

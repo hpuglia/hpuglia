@@ -12,13 +12,14 @@
     <g font-size="13" font-weight="800"><g transform="translate(54 188)"><rect width="110" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.08"/><text x="55" y="23" text-anchor="middle" fill="#FFFFFF">USERSCRIPT</text></g><g transform="translate(174 188)"><rect width="92" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.08"/><text x="46" y="23" text-anchor="middle" fill="#FFFFFF">LANDSAT</text></g><g transform="translate(276 188)"><rect width="104" height="36" rx="18" fill="#ED1C24" fill-opacity="0.2" stroke="#ED1C24"/><text x="52" y="23" text-anchor="middle" fill="#FFFFFF">GITHUB</text></g></g>
     <text x="54" y="252" fill="#ED1C24" font-size="15" font-weight="800">ABRIR REPOSITÓRIO  →</text>
   </g>
-  <g transform="translate(856 38)" fill="none" stroke-linejoin="round">
-    <path d="M112 19L166 70 123 111 69 60Z" fill="#161619" stroke="#FFFFFF" stroke-width="5"/>
-    <path d="M89 86L42 133M142 91L188 137" stroke="#ED1C24" stroke-width="7" stroke-linecap="round"/>
-    <path d="M23 111L91 149 52 211-16 173Z" fill="#ED1C24" fill-opacity="0.14" stroke="#ED1C24" stroke-width="4"/>
-    <path d="M170 112L238 150 199 212 131 174Z" fill="#ED1C24" fill-opacity="0.14" stroke="#ED1C24" stroke-width="4"/>
-    <circle cx="112" cy="80" r="13" fill="#ED1C24" stroke="#FFFFFF" stroke-width="4"/>
-    <path d="M112 111V173" stroke="#FFFFFF" stroke-width="5"/>
-    <path d="M86 173H138" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+  <g transform="translate(824 20)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="243" cy="145" r="70" fill="#111114" stroke="#FFFFFF" stroke-width="6"/>
+    <path d="M179 145H307M243 79C220 101 211 123 211 145S220 189 243 211M243 79C266 101 275 123 275 145S266 189 243 211M188 113C221 127 265 127 298 113M188 177C221 163 265 163 298 177" stroke="#ED1C24" stroke-width="4" stroke-opacity="0.86"/>
+    <path d="M117 49L166 86 137 124 88 87Z" fill="#161619" stroke="#FFFFFF" stroke-width="5"/>
+    <path d="M103 104L68 144M148 107L181 137" stroke="#ED1C24" stroke-width="7"/>
+    <path d="M46 120L95 153 62 203 13 170Z" fill="#ED1C24" fill-opacity="0.16" stroke="#ED1C24" stroke-width="4"/>
+    <path d="M169 117L216 148 184 197 137 166Z" fill="#ED1C24" fill-opacity="0.16" stroke="#ED1C24" stroke-width="4"/>
+    <circle cx="128" cy="88" r="11" fill="#ED1C24" stroke="#FFFFFF" stroke-width="4"/>
+    <path d="M33 217C83 245 149 239 195 204" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="8 11"/>
   </g>
 </svg>
