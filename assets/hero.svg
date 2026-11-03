@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Puglia Apps</title>
+  <desc id="desc">Aplicativos úteis, ferramentas diretas e desenvolvimento independente por Henrique Puglia.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080808"/>
+      <stop offset="0.58" stop-color="#111114"/>
+      <stop offset="1" stop-color="#23080A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="48%" r="48%">
+      <stop offset="0" stop-color="#ED1C24" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#ED1C24" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity="0.55"/>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glow)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <path d="M0 0H18V420H0z" fill="#ED1C24"/>
+  <path d="M720 420L1200 130V420z" fill="#ED1C24" fill-opacity="0.055"/>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="72" y="76" fill="#ED1C24" font-size="18" font-weight="800" letter-spacing="4">DESENVOLVIMENTO INDEPENDENTE · BRASIL</text>
+    <text x="68" y="180" fill="#FFFFFF" font-size="82" font-weight="900" letter-spacing="-3">PUGLIA APPS</text>
+    <rect x="72" y="205" width="220" height="6" rx="3" fill="#ED1C24"/>
+    <text x="72" y="263" fill="#FFFFFF" font-size="30" font-weight="700">Aplicativos úteis. Ferramentas diretas.</text>
+    <text x="72" y="307" fill="#AEB1B6" font-size="23">Android · Windows · Web · Código aberto</text>
+    <g transform="translate(72 342)">
+      <rect width="342" height="46" rx="23" fill="#FFFFFF" fill-opacity="0.075" stroke="#FFFFFF" stroke-opacity="0.16"/>
+      <circle cx="24" cy="23" r="6" fill="#ED1C24"/>
+      <text x="43" y="30" fill="#FFFFFF" font-size="16" font-weight="700" letter-spacing="1">HENRIQUE PUGLIA / DEVELOPER</text>
+    </g>
+  </g>
+
+  <g transform="translate(835 46)" filter="url(#shadow)">
+    <path d="M150 16L276 60 270 192Q267 277 150 331Q33 277 30 192L24 60Z" fill="#151518" stroke="#FFFFFF" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M150 35L253 71" fill="none" stroke="#ED1C24" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="150" cy="151" r="86" fill="#0A0A0B" stroke="#454549" stroke-width="4"/>
+    <g fill="#FFFFFF" stroke="#0A0A0B" stroke-width="3" stroke-linejoin="round">
+      <path d="M150 76L215 113 183 125 158 101Z"/>
+      <path d="M215 113V188L188 169 183 125Z"/>
+      <path d="M215 188L150 226 146 190 188 169Z"/>
+      <path d="M150 226L85 188 116 169 146 190Z"/>
+      <path d="M85 188V113L117 126 116 169Z"/>
+      <path d="M85 113L150 76 158 101 117 126Z"/>
+    </g>
+    <circle cx="150" cy="151" r="27" fill="#0A0A0B" stroke="#ED1C24" stroke-width="7"/>
+    <text x="150" y="375" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="4">PUGLIA APPS</text>
+  </g>
+</svg>

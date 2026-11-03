@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Puglia Apps na Google Play</title>
+  <desc id="desc">Botão para conhecer e instalar os aplicativos da Puglia Apps.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ED1C24"/>
+      <stop offset="0.56" stop-color="#B40D14"/>
+      <stop offset="1" stop-color="#6B080C"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="150" rx="24" fill="url(#bg)"/>
+  <path d="M980 0L1200 0V150H870Z" fill="#000" fill-opacity="0.14"/>
+  <g transform="translate(52 34)" filter="url(#shadow)">
+    <path d="M4 5L55 41 4 77Z" fill="#FFFFFF"/>
+    <path d="M4 5L38 29 55 41 38 53 4 77Z" fill="#FFFFFF" fill-opacity="0.86"/>
+    <path d="M38 29L55 41 38 53 27 41Z" fill="#ED1C24"/>
+  </g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="145" y="57" fill="#FFFFFF" font-size="17" font-weight="700" letter-spacing="3">DESTINO PRINCIPAL</text>
+    <text x="142" y="106" fill="#FFFFFF" font-size="38" font-weight="900">CONHEÇA A PUGLIA APPS NA GOOGLE PLAY</text>
+    <text x="1125" y="96" text-anchor="middle" fill="#FFFFFF" font-size="58" font-weight="300">→</text>
+  </g>
+</svg>
